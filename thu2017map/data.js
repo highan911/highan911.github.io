@@ -9,7 +9,7 @@ var mapdata=[
                 {title:"学生艺术团曲艺队露天相声专场",content:"学生艺术团曲艺队露天相声专场<br>4月29日 16:00-20:30，C楼前广场",position:{lng:116.33503,lat:40.01562},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团合唱队草坪音乐会",content:"学生艺术团合唱队草坪音乐会<br>4月29日上午，听涛西侧广场",position:{lng:116.332436,lat:40.012161},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团民乐队草坪音乐会",content:"学生艺术团民乐队草坪音乐会<br>4月29日上午，工字厅前广场",position:{lng:116.329596,lat:40.008146},imageOffset: {width:-46,height:-21}},
-                {title:"学生艺术团美术社书画活动",content:"学生艺术团美术社书画活动<br>4月29日 9:00-16:00，C楼前广场",position:{lng:116.33503,lat:40.01462},imageOffset: {width:-46,height:-21}},
+                {title:"学生艺术团美术社书画活动",content:"学生艺术团美术社书画活动<br>4月29日 9:00-16:00，C楼前广场",position:{lng:116.33503,lat:40.01602},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团交响乐队草坪音乐会",content:"学生艺术团交响乐队草坪音乐会<br>4月30日 8:00-12:00，情人坡",position:{lng:116.331365,lat:40.0116},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团舞蹈队广场联欢",content:"学生艺术团舞蹈队广场联欢<br>4月30日 8:00，大礼堂前广场",position:{lng:116.331006,lat:40.00912},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团国标队演出",content:"学生艺术团国标队演出<br>4月30日 8:00，新清华学堂前",position:{lng:116.334871,lat:40.006876},imageOffset: {width:-46,height:-21}},
