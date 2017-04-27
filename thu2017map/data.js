@@ -4,12 +4,12 @@ var mapdata=[
         data:{
             markers:[
                 {title:"校庆大游园 一队路线(红色)",content:"校庆大游园 一队路线(红色)<br>学生艺术团军乐队，国旗仪仗队，啦啦操队<br>4月30日<br>09:20 艺术博物馆<br>09:40 主楼<br>10:10 新清华学堂<br>10:25 二校门<br>10:40 大礼堂",position:{lng:116.342318,lat:40.007218},imageOffset: {width:-46,height:-21}},
-                {title:"校庆大游园 二队路线(蓝色)",content:"校庆大游园 二队路线(蓝色)<br>学生艺术团军乐队，国旗仪仗队，啦啦操队<br>4月30日<br>09:40 东大操场北门<br>09:50 李文正馆<br>10:10 老图书馆<br>10:40 大礼堂",position:{lng:116.3381,lat:40.012433},imageOffset: {width:-46,height:-21}},
+                {title:"校庆大游园 二队路线(蓝色)",content:"校庆大游园 二队路线(蓝色)<br>学生艺术团军乐队，国旗仪仗队<br>4月30日<br>09:40 东大操场北门<br>09:50 李文正馆<br>10:10 老馆<br>10:40 大礼堂",position:{lng:116.3381,lat:40.012433},imageOffset: {width:-46,height:-21}},
                 {title:"校庆大游园 两队汇合演出",content:"校庆大游园 两队汇合演出<br>学生艺术团军乐队，学生艺术团舞蹈队，国旗仪仗队，啦啦操队<br>4月30日 10:40，大礼堂前广场",position:{lng:116.331003,lat:40.008948},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团曲艺队露天相声专场",content:"学生艺术团曲艺队露天相声专场<br>4月29日 16:00-20:30，C楼前广场",position:{lng:116.33503,lat:40.01562},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团合唱队草坪音乐会",content:"学生艺术团合唱队草坪音乐会<br>4月29日上午，听涛西侧广场",position:{lng:116.332436,lat:40.012161},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团民乐队草坪音乐会",content:"学生艺术团民乐队草坪音乐会<br>4月29日上午，工字厅前广场",position:{lng:116.329596,lat:40.008146},imageOffset: {width:-46,height:-21}},
-                {title:"学生艺术团美术社书画活动",content:"学生艺术团美术社书画活动<br>4月29日 9:00-16:00，C楼前广场",position:{lng:116.33503,lat:40.01562},imageOffset: {width:-46,height:-21}},
+                {title:"学生艺术团美术社书画活动",content:"学生艺术团美术社书画活动<br>4月29日 9:00-16:00，C楼前广场",position:{lng:116.33503,lat:40.01462},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团交响乐队草坪音乐会",content:"学生艺术团交响乐队草坪音乐会<br>4月30日 8:00-12:00，情人坡",position:{lng:116.331365,lat:40.0116},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团舞蹈队广场联欢",content:"学生艺术团舞蹈队广场联欢<br>4月30日 8:00，大礼堂前广场",position:{lng:116.331006,lat:40.00912},imageOffset: {width:-46,height:-21}},
                 {title:"学生艺术团国标队演出",content:"学生艺术团国标队演出<br>4月30日 8:00，新清华学堂前",position:{lng:116.334871,lat:40.006876},imageOffset: {width:-46,height:-21}},
@@ -179,8 +179,9 @@ var mapdata=[
         data:{
             markers:[
                 {title:"马约翰杯六十届图片展",content:"马约翰杯六十届图片展<br>4月24日-4月30日，东操跑廊",position:{lng:116.338014,lat:40.011547},imageOffset: {width:-46,height:-21}},
-                {title:"坐境·雅之座——中国椅子艺术展",content:"坐境·雅之座——中国椅子艺术展<br>4月28日-5月4日，美术学院美术馆1、2、3号厅",position:{lng:116.341661,lat:40.005644},imageOffset: {width:-46,height:-21}},
+                {title:"坐境·雅之座 中国椅子艺术展",content:"坐境·雅之座-中国椅子艺术展<br>4月28日-5月4日，美术学院美术馆1、2、3号厅",position:{lng:116.341661,lat:40.005644},imageOffset: {width:-46,height:-21}},
                 {title:"源·程向君个展",content:"源·程向君个展<br>4月25日-5月7日，美术学院美术馆4号厅",position:{lng:116.34282,lat:40.005699},imageOffset: {width:-46,height:-21}},
+                {title:"水木青藤 于婉莹绘画作品展",content:"水木青藤-于婉莹绘画作品展<br>4月28日-5月15日，图书馆北馆一层大厅",position:{lng:116.330495,lat:40.011616},imageOffset: {width:-46,height:-21}},
                 {title:"文图放映-清华专题",content:"文图放映-清华专题<br>4月29日，人文社科图书馆未央厅",position:{lng:116.335018,lat:40.010065},imageOffset: {width:-46,height:-21}},
                 {title:"清华大学图书馆藏民国馆史文献展",content:"清华大学图书馆藏民国馆史文献展<br>4月24日-5月10日，图书馆北馆一层大厅",position:{lng:116.330495,lat:40.011616},imageOffset: {width:-46,height:-21}},
                 {title:"清华校友摄影协会校庆社情站",content:"清华校友摄影协会校庆社情站<br>4月26日-5月5日，图书馆北馆一层展区",position:{lng:116.330495,lat:40.011616},imageOffset: {width:-46,height:-21}},
@@ -214,7 +215,7 @@ var mapdata=[
                 {title:"图书馆老馆大库开放日",content:"图书馆老馆大库开放日<br>4月29日-4月30日，图书馆老馆大库",position:{lng:116.331924,lat:40.010269},imageOffset: {width:-46,height:-21}},
                 {title:"幸福实验室开放",content:"幸福实验室开放<br>4月29日-4月30日，幸福科技实验室",position:{lng:116.336833,lat:40.000131},imageOffset: {width:-46,height:-21}},
                 {title:"艺术博物馆展览开放参观",content:"艺术博物馆展览开放参观<br>4月29日-4月30日，艺术博物馆",position:{lng:116.342102,lat:40.007599},imageOffset: {width:-46,height:-21}},
-                {title:"校医院学生区义诊",content:"校医院学生区义诊<br>4月29日 12:00，C楼前广场",position:{lng:116.33503,lat:40.01562},imageOffset: {width:-46,height:-21}},
+                //{title:"校医院学生区义诊",content:"校医院学生区义诊<br>4月29日 12:00，C楼前广场",position:{lng:116.33503,lat:40.01562},imageOffset: {width:-46,height:-21}},
             ],
             labels:[],
             plOpts:[],
